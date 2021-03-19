@@ -1,0 +1,5 @@
+site_name: Unix Class Documentation
+theme:
+    name: material
+    features:
+        - navigation.instant
