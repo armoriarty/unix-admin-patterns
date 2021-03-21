@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# Unix Administration Documentation and Guides
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Get the this site's [repo](https://github.com/armoriarty/unix-admin-patterns).
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This site is a lose collection of notes from [Northern Michigan University's](https://nmu.edu/) [CS-302 Unix System Administration](http://euclid.nmu.edu/~rappleto/Classes/CS302/).
